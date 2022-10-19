@@ -30,4 +30,200 @@
 "nome": "Casa de carne pais e filhos",
 "descricao": "Av. Bias Fortes,2222"
 }
-   ]
+  ,
+{
+"nome": "Dr Benigno",
+"descricao": "Endereço: R. Levindo Augusto Pereira, 399 - Sala 101 - Centro, Curvelo - MG",
+},
+  
+  {
+"nome": "Calazans Foto",
+"descricao": "Pc Benedito Valadares, 37 - Centro, Curvelo - MG"
+},
+
+  {
+"nome":"Clínica Bem Viver",
+"descricao":"Endereço: R. Levindo Augusto Pereira, 205 - Centro, Curvelo - MG"
+},
+
+{
+"nome":"Centro De Reabilitacao Marcileia Maria",
+"descricao":"Endereço Avenida Gentil De Matos, 272, Centro - Sala 04 Curvelo-MG"
+
+},
+
+ {
+"nome":"Reabilitar - Centro de fisioterapia"
+,
+"descricao":" Endereço: R. Afonso Pena, 135 - Maria Amalia, Curvelo - MG"
+},
+   {
+"nome":"Laboratório Hemocentro",
+"descricao": "Endereço: R. Visc. de Ouro Preto, 285 - Maria Amalia, Curvelo - MG"
+},
+
+{
+"nome":"Laboratório Sabin",
+"descricao":" Rua Jaquin Felício,248-Centro-Curvelo-MG"
+},
+   {
+"nome":"Laboratório Saúde e Vida",
+"descricao": "Av.Dep. Renato Azeredo,28 -  Bela Vista - Curvelo-MG"
+},
+   {
+"nome":"Loja do Curtume - Materiais de Construção"
+,
+"descricao":"Endereço: R. Barão Rio Branco, 209 - Centro, Curvelo - MG"
+},
+{
+"nome": "Loja do Mendes Assistência Técnica"
+,
+"descricao":"Endereço: R. Sete de Setembro, 50 - Centro, Curvelo - MG"
+},
+   {
+"nome":"Mac-Bel",
+"descricao": "Endereço: Av. Dep. Renato Azeredo, 170 - Bela Vista, Curvelo - MG"
+},
+{
+"nome": "Nanda Mega Store",
+"descricao": "Endereço: Av. Dom Pedro II, 321 - Centro, Curvelo - MG"
+},
+   {
+"nome": "PASSO CERTO CALÇADOS",
+"descricao": "Endereço: Av. Dom Pedro II, 399 - Centro, Curvelo - MG"
+
+   },
+   {
+"nome":"Viceversa",
+"descricao": "Endereço: Av. Integração Sergio Eugênio da Silva, 722 - Centro, Curvelo - MG"
+},
+   {
+"nome":"Drogaria Marcelino",
+"descricao": "Endereço: Praça Benedito Valadares, 22 - Centro, Curvelo - MG"
+},
+   
+   {
+"nome": "Drogaria Marilda",
+"descricao": "Endereço: R. Afonso Pena, 71 - Centro, Curvelo - MG, 35790-123"
+},
+   {
+"nome": "Rede Inova Drogarias",
+"descricao": "Endereço: R. Xavier Rolim, 45 - Centro, Curvelo - MG"
+},
+   {
+"nome":"Drogaria Americana",
+"descricao": "Endereço: R. Visc. de Ouro Preto, 250 - Centro, Curvelo - MG"
+},
+   {
+"nome":"Drogaria Brasil",
+    "descricao":" Endereço: R. Visc. de Ouro Preto, 167 - Centro, Curvelo - MG"
+},
+   {
+"nome":"Drogaria Cristina"
+ ,
+"descricao": "Endereço: Praça Benedito Valadares, 209 - Centro, Curvelo - MG"
+},
+   {
+"nome":"Drogaria Fernandes",
+"descricao": "Endereço: Av. Dep. Renato Azeredo, 06 - Bela Vista, Curvelo - MG"
+},
+   {
+"nome": "Barbearia Dias"
+,
+"descricao": "Endereço: R. Afonso Pena, 93 - Centro, Curvelo – MG"	
+},
+   
+   {
+"nome": "DCI Informática",
+"descricao": "Endereço: R. Eng. Carlos, 264 - Centro, Curvelo - MG"
+},
+
+{
+"nome": "Copiadora Fênix Ltda",
+"descricao":"Endereço: Pça Benedito Valadares, 41 - Centro, Curvelo - MG"
+},
+   
+   {
+"nome": "Gás Minas",
+"descricao": "Endereço: Av. Dep. Renato Azeredo, 844 - Léo Batista, Curvelo - MG"
+},
+{
+"nome":"Quality Ópticas"
+,"descricao": "Endereço: Av. Dom Pedro II, 371 - Centro, Curvelo - MG"
+},
+
+   {
+"nome":"Bikes Pedepato",
+"descricao":" Endereço: Av. Antônio Olinto, 571 - Centro, Curvelo - MG"
+},
+   
+   {
+"nome":"Rede Santana",
+"descricao":" Endereço: Av. Othon Bezerra de Melo, 2095 - Maria Amalia, Curvelo - MG"
+},
+
+   {
+"nome": "Posto Curvelo"
+,
+"descricao": "Endereço: R. Afonso Pena, 750 - Centro, Curvelo - MG"
+},
+
+   {
+"nome":"Supermercado São Geraldo"
+ ,
+"descricao":"Endereço: Av. dos Timbiras, 581 - Tibira, Curvelo - MG"
+},
+
+{
+"nome": "Supermercado Matias",
+"descricao": "Endereço: BR-135 - Jk, Curvelo - MG"
+},
+{
+"nome":"Mercearia Sempre Viva",
+"descricao": "Endereço: R. Constantino Dutra Amaral, 17 - Centro, Curvelo - MG"
+},
+   
+   {
+"nome":" Ponto Certo Cereais"
+,
+"descricao": "Endereço: R. Luiz Euzebio, 505 - Centro, Curvelo - MG"
+},
+   {
+"nome":"Mercearia Palmeiras",
+"descricao": "Endereço: R. Dr. Werna, 404 - Bela Vista, Curvelo - MG"
+},
+   {
+"nome": "Fausto",
+"descricao": "Endereço: Av. Dom Pedro II, 301 - Centro, Curvelo - MG"
+},
+   {
+"nome":"Alécio Confecções"
+,
+"descricao": "Rua Juvenal Borges 315 no Bairro Centro na Cidade de Curvelo, MG"
+},
+
+{
+"nome":"Tanure Store",
+"descricao": "Endereço: R. Zuzu Angel, 08 - Centro, Curvelo - MG"
+},
+   {
+"nome":"Blitz",
+"descricao": "Endereço: R. Joaquim Felício, 09 - Centro, Curvelo - MG"
+},
+
+{
+"nome":"Arena Gym",
+"descricao": "Endereço: Av. Dep. Renato Azeredo, 581 - Bela Vista, Curvelo - MG"
+}
+
+{
+"nome": "UniCesumar",
+"descricao": "Endereço: R. Xavier Rolim, 25 - Centro, Curvelo - MG"
+},                         
+
+{
+"nome": "Premium UNIP - Cursos Profissionalizante"
+,
+"descricao": "R. Desembargador Barata, 41 – Centro, Curvelo-MG"
+},
+]
